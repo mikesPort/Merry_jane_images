@@ -1,1 +1,3 @@
-![Image Alt Text](https://merry-jane.com/static/media/1.%20MJ%20Logo%20Black%20with%20White%20Surround.12030775a7bf70b043a3.png)
+main logo
+
+![Image Alt Text](https://github.com/mikesPort/Merry_jane_images/blob/main/images/mjlogo.jpeg?raw=true)
